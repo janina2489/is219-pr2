@@ -24,6 +24,8 @@ $(document).ready(function() {
   prevImg.addClass('active');
  });
 
+ $('.next').on('click', function() {
+
   
   
 });
